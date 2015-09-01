@@ -1,14 +1,14 @@
 [Desktop Entry]
-Name=Hide Others
-Comment=Hide all but the active window.
+Name=Minimize Others
+Comment=Minimize all but the active window.
  
 X-Plasma-API=javascript
 X-Plasma-MainScript=code/main.js
  
 X-KDE-PluginInfo-Author=Koffeingeladen
 X-KDE-PluginInfo-Email=info@koffeingeladen.de
-X-KDE-PluginInfo-Name=hideothers
-X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Name=minimizeothers
+X-KDE-PluginInfo-Version=1.2
 X-KWin-Exclude-Listing=false
 
 X-KDE-PluginInfo-License=GPL
